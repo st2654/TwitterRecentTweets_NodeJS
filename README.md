@@ -13,7 +13,7 @@ Get Consumer Key, Consumer Secret key, Access Token and Access Secret Key.
 You need this 4 keys to run this program. Fill it in this values
 
 ```javascript
-ar client = new Twitter({
+var client = new Twitter({
 	//Fill in Consumer keys and Access token from your twitter app
 consumer_key : '',
 consumer_secret : '',
